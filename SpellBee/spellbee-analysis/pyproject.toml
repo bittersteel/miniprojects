@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "spellbee-analysis"
+version = "0.1.0"
+description = "A project to analyze and count possible NYT Spell Bee puzzles."
+authors = ["Your Name <youremail@example.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.3.0"
+numpy = "^1.21.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

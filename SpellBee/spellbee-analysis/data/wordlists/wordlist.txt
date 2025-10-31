@@ -1,0 +1,27 @@
+wordlist.txt should contain a comprehensive list of words that can be used for validating the generated puzzles. Below is a sample content for the wordlist, which you can expand as needed:
+
+apple
+banana
+grape
+orange
+kiwi
+melon
+peach
+plum
+berry
+cherry
+date
+fig
+lemon
+lime
+mango
+nectarine
+pear
+pineapple
+raspberry
+strawberry
+tangerine
+watermelon
+zucchini
+
+Feel free to add more words to this list to meet your project's requirements.
